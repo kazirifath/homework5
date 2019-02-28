@@ -1,0 +1,26 @@
+h1{
+	color:white; text-align: center;
+
+}
+
+blockquote{ color:white; text-align: center;
+
+
+}
+
+address{color: white text-align:center;  }
+.head{
+	background-color: slateblue;
+}
+
+#head {
+	font-size: 50px
+}
+.head1{
+	background-color: lightgray;
+}
+
+#head1 {
+	font-size: 30px
+}
+
